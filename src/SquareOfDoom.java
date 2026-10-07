@@ -15,13 +15,13 @@ public class SquareOfDoom {
 		int y = SoDY;
 		
 		// Set the color of the square to red
-		g2.setColor(Color.red);
+		g2.setColor(Color.black);
 		
 		// Draw the SoD
 		g2.fillRect(x, y, BOX_DIMENSION, BOX_DIMENSION);
 		
 		// Add words to the drawing
-		g2.setColor(Color.black);
-		g2.drawString("DOOM", x + 15, y + 15);
+		g2.setColor(Color.red);
+		g2.drawString("DOOM", x + 10,y + 10);
 	}
 }
