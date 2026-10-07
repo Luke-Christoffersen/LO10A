@@ -1,0 +1,10 @@
+* 9d1290c (HEAD -> main, origin/squareofdoom, origin/main) Created the square of doom class
+*   68b7359 Merge branch 'addmouse' adding mouse implementation to the main branch
+|\  
+| * b18298f (origin/addmouse) Changed mouse to say EEEK
+| * 8e578c8 Added a mouse class to the program plus mouse functionality in MyDrawing
+* | d7cae6f (origin/catears) Added cat ears to the cat class and drawing
+|/  
+* d1228ae Added whiskers to the drawing per Step 2
+* 6b6f46a feat: added default files
+* 790be06 Initial commit
