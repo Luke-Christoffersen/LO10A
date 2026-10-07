@@ -21,7 +21,7 @@ public class SquareOfDoom {
 		g2.fillRect(x, y, BOX_DIMENSION, BOX_DIMENSION);
 		
 		// Add words to the drawing
-		g2.setColor(Color.red);
-		g2.drawString("DOOM", x + 10,y + 10);
+		g2.setColor(Color.black);
+		g2.drawString("DOOM", x + 7,y + 17);
 	}
 }
